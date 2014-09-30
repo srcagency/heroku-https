@@ -1,0 +1,23 @@
+{
+	"name": "heroku-https",
+	"version": "1.0.0",
+	"description": "Enforce https on heroku apps",
+	"main": "index.js",
+	"keywords": [
+		"heroku",
+		"https"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/srcagency/heroku-https.git"
+	},
+	"dependencies": {
+		"response-redirect": "^0.0.1"
+	},
+	"author": {
+		"name": "Thomas Jensen",
+		"email": "thomas@src.agency",
+		"url": "http://src.agency"
+	},
+	"license": "MIT"
+}
